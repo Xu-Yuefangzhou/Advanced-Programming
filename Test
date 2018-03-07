@@ -1,3 +1,3 @@
-name='xuyuefangzhou'
+name='Xu Yuefangzhou'
 age=23
 print('{} is {} years old now.'.format(name,age))
