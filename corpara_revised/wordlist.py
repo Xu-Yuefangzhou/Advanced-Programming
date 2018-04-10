@@ -29,10 +29,6 @@ wordlist=fdist1.items()
 wordlist_sorted_desc=sorted(wordlist,key=lambda w:w[1],reverse=True)
 wordlist_sorted_asc=sorted(wordlist,key=lambda w:w[1])
 
-
-n=0
-m=0
-
 print ("Top 10:")
 for word in wordlist_sorted_desc[0:10]:       
     print (word)
