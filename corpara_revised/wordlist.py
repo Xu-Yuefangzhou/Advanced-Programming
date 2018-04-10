@@ -23,6 +23,7 @@ files.fileids()
 words0=wt(files.raw(fileids=files.fileids()))
 #words=rt(files.raw(fileids=files.fileids()),"[\w']+") #正则表达式方法
 
+#全部改为小写
 words=[]
 for word0 in words0:
     word=word0.lower()
