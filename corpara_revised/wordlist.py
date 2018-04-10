@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr 4 10:04:29 2018
-@author: DELL
-"""
-
-__author__ = 'Jane_Xu'
-# -*- coding: utf-8 -*-
-"""
 @author: Jane Xu
 """
 
