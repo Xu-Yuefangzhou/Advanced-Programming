@@ -1,2 +1,2 @@
-# Advanced-Programming
-Repository for Advanced Programming
+# Advanced-Programming-note-exercise
+The notes and exercises for Advanced Programming course
